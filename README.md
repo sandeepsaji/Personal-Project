@@ -37,6 +37,4 @@ Before running the project, make sure you have:
 - **Streamlit Interface**: Provides an interactive web interface for users to view and analyze the collected data.
 - **Analysis**: Includes basic analysis features such as viewing channels with the most number of videos, most viewed videos, likes, views of each channel, videos published in a specific year, and videos with the highest number of comments.
 
-## Contributing
 
-Contributions are welcome! Feel free to submit issues or pull requests if you encounter any bugs or have suggestions for improvements.
