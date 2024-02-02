@@ -6,7 +6,7 @@ Here's a basic README template for your YouTube Data Harvesting project:
 
 # YouTube Data Harvesting Project
 
-This project is aimed at harvesting and storing data from YouTube channels, playlists, videos, and comments into MongoDB and MySQL databases using Python and integrating with Streamlit for data visualization and analysis.
+This project is aimed at harvesting and storing data from YouTube channels, playlists, videos, and comments into MongoDB and MySQL databases using Python and integrating with Streamlit for data analysis.
 
 ## Overview
 
